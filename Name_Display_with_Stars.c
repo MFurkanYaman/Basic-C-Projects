@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//Hocam M ve N harfinde düzgün görünmesi için en sonuna bilerek * yazdırmadım.
+
 int harfm(boyut)
 {
     int i,k,j;
